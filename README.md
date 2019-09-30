@@ -1,4 +1,5 @@
-# AKGroup-Progress-Report
+#                                                 Group AK Project Progress Report 
+#                                                                         -- Waking-up System for Rear Window Defogger
 
 # Current Progress
 
