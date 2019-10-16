@@ -1,7 +1,7 @@
 #                                                 Group AK Project Progress Report 
 #                                                                         -- Waking-up System for Rear Window Defogger
 
-# Current Progress
+## Current Progress
 
 
 1.Tested the functionality of required devices(DS18B20 Temperature Sensor, DHT11 Temperature & Humidity Sensor)
@@ -25,7 +25,7 @@ return RH2=f(T2,d1)
 
 As expected, the final finished product for in-class demonstration should be a glass box with two sensors and a buzzer alarm attached. However, due to the restriction that low temperature and high humidity are not conventional, the group need to record a video in advance showing how this system works in the required environment (low temperature as in the refrigerator, high humidity as additional water vapor injection). 
 
-# Problems Encountered
+## Problems Encountered
 
 1. Build up an applicable simulation system with low temperature and high humidity;
 
@@ -39,7 +39,7 @@ The humidity sensor is not sensitive enough to detect the slight change of relat
 
 The temperature sensor may not be closely attached to the window, so that the temperature change on window may not be accurate enough to predict the formation of fog. 
 
-# Future Plan
+## Future Plan
 
 1. Write a python code 
 
